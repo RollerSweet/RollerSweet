@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tamir Madar
 - 👀 I’m interested in React, Python, Networking automations, Vmware and netapp.
-- 🌱 I’m currently learning for certification on vmware vcp-dcv and tanzo 
+- 🌱 I’m currently learning devops
 - 📫 How to reach me:
 - Linkedin - https://www.linkedin.com/in/tamir-madar-11901521a/
 
